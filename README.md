@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe Demo](lhttps://mrohit23.github.io/Tic-Tac-Toe-Game/)
+![Tic Tac Toe Demo](https://mrohit23.github.io/Tic-Tac-Toe-Game/)
 
 A classic Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
