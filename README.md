@@ -15,7 +15,7 @@ A classic Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ![Tic Tac Toe Demo](https://mrohit23.github.io/Tic-Tac-Toe-Game/)
 
-Check out the live demo [here](link_to_live_demo).
+Check out the live demo [here](https://mrohit23.github.io/Tic-Tac-Toe-Game/).
 
 ## Features
 
